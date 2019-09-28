@@ -1,19 +1,20 @@
 {
-    "name": "jonahklimack/calf",
-"description": "Calf - a wrapper for the MooSend.com Api"
-"type": "project",
-"license": "MIT",
-    "authors": [
+	"name": "jonahklimack/calf",
+	"description": "Calf - a wrapper for the MooSend.com Api",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
         {
             "name": "Jonah Klimack",
             "email": "jonahkl11k@gmail.com"
         }
-    ],
-"minimum-stability": "dev",
-"autoload": {
-"psr-4": {
-"JonahKlimack\\Calf\\": "src/"
-}
-{,
-    "require": {}
+	],
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"JonahKlimack\\Calf\\": "src/"
+		}
+	},
+
+	"require": {}
 }
